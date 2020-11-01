@@ -1,0 +1,37 @@
+//
+//  PrefixHeader.pch
+//  ticketOrderDemo
+//
+//  Created by shi1234ww on 2020/10/28.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "AFNetworking.h"
+#import "Macro_shi.h"
+#import "Macro_appConfig_shi.h"
+#import "IQKeyboardManager.h"
+#import "MJExtension.h"
+#import "SDAutoLayout.h"
+#import "SVProgressHUD.h"
+#import "ToastView.h"
+
+#import "BaseView.h"
+#import "BaseViewController.h"
+#import "BaseModel.h"
+#import "BaseService.h"
+#import "BaseNetworkRequest.h"
+#import "BaseResult.h"
+#import "OptionModel.h"
+
+#import "GQHNetworkError.h"
+#import "GQHNetworkResult.h"
+
+
+#import "NSDate+Utilities.h"
+
+#endif /* PrefixHeader_pch */

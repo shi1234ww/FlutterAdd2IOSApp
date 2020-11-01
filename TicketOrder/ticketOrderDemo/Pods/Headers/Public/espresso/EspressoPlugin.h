@@ -1,0 +1,1 @@
+../../../../../flutter_module/.ios/Flutter/.symlinks/espresso/ios/Classes/EspressoPlugin.h

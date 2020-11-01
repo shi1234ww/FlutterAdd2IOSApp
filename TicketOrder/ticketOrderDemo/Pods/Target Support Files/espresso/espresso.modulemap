@@ -1,0 +1,6 @@
+module espresso {
+  umbrella header "espresso-umbrella.h"
+
+  export *
+  module * { export * }
+}
